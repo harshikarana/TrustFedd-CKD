@@ -1,13 +1,6 @@
-TrustFed-CKD/
-│
-├── app.py
-│
-├── requirements.txt
-│
-└── trustfed_ckd_model/
-    │
-    ├── global_model.pth
-    ├── scaler.pkl
-    ├── features.json
-    ├── threshold.json
-    └── hospital_trust_scores.csv
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+torch
